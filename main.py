@@ -1,0 +1,3 @@
+import jogos
+
+jogos.jogo()
